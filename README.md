@@ -7,9 +7,9 @@ A simple app made for test animations on Flutter
 
 ![Home Page](assets/print.png)
 
-- Libraries:
-flare_flutter
-splashscreen
+- Libraries:  
+flare_flutter  
+splashscreen  
 
 ## Getting Started
 

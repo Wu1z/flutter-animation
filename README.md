@@ -2,14 +2,14 @@
 
 A simple app made for test animations on Flutter  
 
-> SUCCESS - display a success animation  
-> ERROR - display a error animation  
+> **SUCCESS** - display a success animation  
+> **ERROR** - display a error animation  
 
 ![Home Page](assets/print.png)  
 
 > Libraries:  
->   flare_flutter  
->   splashscreen  
+> - flare_flutter  
+> - splashscreen  
 
 ## Getting Started
 

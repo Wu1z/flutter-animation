@@ -5,7 +5,7 @@ A simple app made for test animations on Flutter
 > SUCCESS - display a success animation  
 > ERROR - display a error animation  
 
-<div style="text-align:center"><img src="assets/print.png"/></div>
+<div style="text-align=center"><img src="assets/print.png"/></div>
 
 ![Home Page](assets/print.png)  
 
